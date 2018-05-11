@@ -1,0 +1,293 @@
+@media screen and (max-width: 1305px) {
+    .header {
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header-banner {
+        max-width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        max-height: 100px;
+    }
+    .header-name {
+        order: 0;
+        font-family: 'Oswald', sans-serif;
+        font-size: 3em;
+        width: 80%;
+        margin-top: -10px;
+        margin-bottom: -40px;
+        height: 60px;
+    }
+    .social-media-buttons {
+        width: 20%;
+        order: 1;
+        justify-content: right;
+        margin-top: 10px;
+    }
+    .header-sub-title {
+        order: 2;
+        font-family: 'Oswald', sans-serif;
+        font-size: 1.5em;
+        margin-top: 5px;
+        max-width: 100%;
+        margin-bottom: 1px;
+    }
+    .header-photo {
+        max-width: 100%;
+        height: auto;
+        box-shadow: 2px 2px #d9d9db;
+        order: 3;
+    }
+    .main-content {
+        font-family: 'Oswald', sans-serif;
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .about-me {
+        width: 100%;
+    }
+    .about-me-header {
+        padding-top: 1.5em;
+        text-align: center;
+        font-size: 1.5em;
+    }
+    .profile-pic {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        height: auto;
+    }
+    .education {
+        width: 100%;
+    }
+    .education-header {
+        text-align: center;
+        font-size: 1.5em;
+        padding-top: 1.5em;
+    }
+    .ksu-badge {
+        width: 120px;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10em;
+        padding-top: 1.5em;
+    }
+    .udacity-badge {
+        width: 240px;
+        height: auto;
+        padding-left: 18em;
+    }
+    .my-work-header {
+        width: 100%;
+        font-size: 1.5em;
+        text-align: center;
+        padding-top: 0.5em;
+        padding-bottom: -0.5em;
+    }
+    .first-project-header {
+        width: 100%;
+        text-align: center;
+        order: 0;
+        max-height: 25px;
+    }
+    .coming-soon-img1 {
+        width: 100%;
+        height: auto;
+        order: 1;
+        max-height: 275px;
+        max-width: 325px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .project1-para {
+        width: 100%;
+        order: 2;
+        padding-right: 0.75em;
+        text-align: center;
+    }
+    .animal-trading-card-header {
+        width: 100%;
+        text-align: center;
+        order: 3;
+        max-height: 25px;
+    }
+    .elephant-img {
+        width: 100%;
+        height: auto;
+        order: 4;
+        max-height: 275px;
+        max-width: 325px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .project2-summary {
+        width: 100%;
+        order: 5;
+        text-align: center;
+    }
+    .third-project-header {
+        width: 100%;
+        text-align: center;
+        order: 6;
+        max-height: 25px;
+    }
+    .coming-soon-img3 {
+        width: 100%;
+        height: auto;
+        order: 8;
+        max-height: 275px;
+        max-width: 325px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .project3-para {
+        width: 100%;
+        order: 8;
+        text-align: center;
+    }
+    .my-work-div {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 100%;
+    }
+}
+@media screen and (max-width: 846px) {
+    .ksu-badge {
+        width: 90px;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10em;
+        padding-top: 1.5em;
+    }
+    .udacity-badge {
+        width: 185px;
+        height: auto;
+        padding-left: 5em;
+    }
+    .header {
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header-banner {
+        max-width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        max-height: 100px;
+    }
+    .header-name {
+        order: 0;
+        font-family: 'Oswald', sans-serif;
+        font-size: 3em;
+        width: 75%;
+        margin-top: -10px;
+        margin-bottom: -40px;
+        height: 60px;
+    }
+    .social-media-buttons {
+        width: 25%;
+        order: 1;
+        justify-content: right;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 637px) {
+    .udacity-badge {
+        width: 155px;
+        height: auto;
+        padding-left: 5em;
+    }
+    .ksu-badge {
+        width: 70px;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 8em;
+        padding-top: 1.5em;
+    }
+    .header {
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header-banner {
+        max-width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        max-height: 100px;
+    }
+    .header-name {
+        order: 0;
+        font-family: 'Oswald', sans-serif;
+        font-size: 3em;
+        width: 65%;
+        margin-top: -10px;
+        margin-bottom: -40px;
+        height: 60px;
+    }
+    .social-media-buttons {
+        width: 35%;
+        order: 1;
+        justify-content: right;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .header {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        max-height: 300px;
+    }
+    .header-banner {
+        max-width: 100%;
+    }
+    .header-name {
+        font-family: 'Oswald', sans-serif;
+        font-size: 2em;
+        width: 100%;
+        margin-top: -10px;
+        height: 60px;
+    }
+    .social-media-buttons {
+        display: none;
+    }
+    .header-sub-title {
+        order: 1;
+        font-family: 'Oswald', sans-serif;
+        font-size: .75em;
+        margin-top: 5px;
+        max-width: 100%;
+        margin-top: 2em;
+    }
+    .profile-pic {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 400px;
+        height: auto;
+    }
+    .udacity-badge {
+        width: 155px;
+        height: auto;
+        padding-left: 5em;
+    }
+    .ksu-badge {
+        width: 70px;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 3em;
+        padding-top: 1.5em;
+    }
+}
